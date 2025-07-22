@@ -16,15 +16,6 @@ This is a simple web application that allows you to count and save the number of
   - Resets the count to 0
 
 
-## Folder Structure
-project-folder/
-├── index.html # Main HTML layout
-├── index.css # Styling (with background image)
-├── index.js # JS logic for counting and saving
-├── theater.jpg # Background image (you provide)
-└── README.md # This file
-
-
 ## Acknowledgments
 - Vanilla JS + HTML/CSS only
 - Theater photo (you can credit the image source here if needed)
