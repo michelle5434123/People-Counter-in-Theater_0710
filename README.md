@@ -14,8 +14,3 @@ This is a simple web application that allows you to count and save the number of
 - Clicking **SAVE**:
   - Appends the current count to the "History entries"
   - Resets the count to 0
-
-
-## Acknowledgments
-- Vanilla JS + HTML/CSS only
-- Theater photo (you can credit the image source here if needed)
